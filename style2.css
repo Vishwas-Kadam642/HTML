@@ -1,0 +1,12 @@
+h1{
+    text-align: left;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+div{
+    height: 50px;
+    width: 200;
+    background-color: bisque;
+}
