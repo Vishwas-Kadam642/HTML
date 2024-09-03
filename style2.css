@@ -6,7 +6,10 @@ h1{
 }
 
 div{
-    height: 50px;
-    width: 200;
+    height: 100px;
+    width: 100px;
     background-color: bisque;
+    border-width: 3px;
+    border-style: solid;
+    border-color: chocolate;
 }
