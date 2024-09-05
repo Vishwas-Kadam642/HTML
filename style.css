@@ -32,7 +32,7 @@ h1{
 
 
 /* task three */
-h1{
+/* h1{
     text-align: center;
     text-decoration: underline;
     text-transform: uppercase;
@@ -73,4 +73,33 @@ h1{
     background-color: green;
     border-radius: 50%;
     margin: 30px 30px 30px 30px;
+} */
+
+/* task 3 part 2 */
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: underline red;
+    text-transform: uppercase;
+}
+
+#t2{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 20px;
+}
+
+a{
+    margin-right: 200px;
 }
