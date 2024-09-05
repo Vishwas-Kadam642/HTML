@@ -39,8 +39,38 @@ h1{
 }
 
 #Task3{
+    height: 500px;
+    width: 200px;
+    background-color: black;
+    border: 20px;
+    border-color: brown;
+    align-self: center;
+    border-radius: 25px 25px 25px 25px ;
+    padding: 50px;
+    margin: 50px;
+}
+
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px;
+    
+}
+
+#yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px;
+}
+
+#green{
     height: 100px;
     width: 100px;
     background-color: green;
     border-radius: 50%;
+    margin: 30px 30px 30px 30px;
 }
