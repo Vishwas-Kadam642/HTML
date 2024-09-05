@@ -9,16 +9,39 @@ div{
     /* this below code is for box model in css where we can adjust hight, width and border there color,there size */
     /* this hight property will help us to adjust hight of element means surrounding space in virtecal direction  */
     height: 100px;
+
     /* this width property will help us to adjust width of element means surrounding space in horizontel direction */
     width: 100px;
     background-color: bisque;
+
     /* this border property will help us to manage the style, width and border color of border(element surrounting end of element box)  */
     /* border-width: 3px;
     border-style: solid;
     border-color: chocolate; */
+
     /* we can perform multiple border properties in shortcut or we can say shorthand */
     border: 3px solid black;
-    /* this below code is for boder-radius it will change the sharp edges into corved edges  */
-    border-radius: 15px;
+
+
+    /* this below code is for boder-radius it will change the sharp edges into corved edges by using percentage value */
     /* border-radius: 50%; */
+    /* this below code is for boder-radius it will change the sharp edges into corved edges by using pixel value  */
+    border-radius: 15px;
+    
+
+    /* this below code is for padding it help use to add space in between border and content */
+    /* padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px; */
+
+    /* we can perform multiple padding properties in shortcut or we can say shorthand and valuse are written in sequence
+    (top,right,bottom,left)*/
+    padding: 25px 10px 15px 20px;
+
+    /* by this below code we can adjust same padding space for each side */
+    /* padding : 25px; */
+
+    /* this below code is for  */
+    
 }
