@@ -42,6 +42,17 @@ div{
     /* by this below code we can adjust same padding space for each side */
     /* padding : 25px; */
 
-    /* this below code is for  */
+    /* this below code is for margin means space in between two boxes or elements */
+    /* margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;  */
+
+    /* we can perform multiple margin properties in shortcut or we can say shorthand and valuse are written in sequence
+    (top,right,bottom,left)*/
+    margin: 25px 10px 15px 20px;
+
+     /* by this below code we can adjust same margin space for each side */
+    /* margin : 25px; */
     
 }
