@@ -6,10 +6,19 @@ h1{
 }
 
 div{
+    /* this below code is for box model in css where we can adjust hight, width and border there color,there size */
+    /* this hight property will help us to adjust hight of element means surrounding space in virtecal direction  */
     height: 100px;
+    /* this width property will help us to adjust width of element means surrounding space in horizontel direction */
     width: 100px;
     background-color: bisque;
-    border-width: 3px;
+    /* this border property will help us to manage the style, width and border color of border(element surrounting end of element box)  */
+    /* border-width: 3px;
     border-style: solid;
-    border-color: chocolate;
+    border-color: chocolate; */
+    /* we can perform multiple border properties in shortcut or we can say shorthand */
+    border: 3px solid black;
+    /* this below code is for boder-radius it will change the sharp edges into corved edges  */
+    border-radius: 15px;
+    /* border-radius: 50%; */
 }
