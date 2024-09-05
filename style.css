@@ -29,3 +29,11 @@ h1{
 #Inner{
     font-size: 10px;
 } */
+
+
+/* task three */
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
